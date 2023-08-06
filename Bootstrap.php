@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Template\NOVA;
 
@@ -10,6 +12,8 @@ use scc\DefaultComponentRegistrator;
 use scc\Renderer;
 use scc\RendererInterface;
 use Smarty;
+
+
 
 /**
  * Class Bootstrap
